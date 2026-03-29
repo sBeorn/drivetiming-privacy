@@ -1,6 +1,6 @@
-Privacy Policy for EDS Zamanlayıcı (SafeTraj)
+Privacy Policy for Drive Timing (SafeTraj)
 
-Sbeo Studios built the EDS Zamanlayıcı app as a Free app. This SERVICE is provided by Sbeo Studios at no cost and is intended for use as is.
+Sbeo Studios built the Drive Timing app as a Free app. This SERVICE is provided by Sbeo Studios at no cost and is intended for use as is.
 
 Information Collection and Use
 For a better experience while using our Service, we do not require you to provide us with any personally identifiable information. The app does not collect, store, or share any personal data. 
